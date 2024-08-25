@@ -1,0 +1,7 @@
+ DOCKER IMAGE NAME IS : rabbit1910/recipe:latest 
+
+pulling the image :docker pull rabbit1910/recipe:latest
+
+runnin the image : docker run -d -p 8000:8000 rabbit1910/recipe:latest
+
+refers to the "localhost:8000" in the local machine 
